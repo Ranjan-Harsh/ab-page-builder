@@ -19,13 +19,13 @@ Mini Page Builder is a React-based application that allows users to create and c
 1. Clone the repository:
 
 ```
-git clone https://github.com/Ranjan-Harsh/temp-pawan
+git clone https://github.com/Ranjan-Harsh/ab-page-builder
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd temp-pawan
+cd ab-page-builder
 ```
 
 3. Install dependencies:
